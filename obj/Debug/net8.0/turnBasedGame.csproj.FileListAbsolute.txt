@@ -1,0 +1,14 @@
+C:\Users\ERAY\Desktop\Proje\projectz\turnBasedGame\bin\Debug\net8.0\turnBasedGame.exe
+C:\Users\ERAY\Desktop\Proje\projectz\turnBasedGame\bin\Debug\net8.0\turnBasedGame.deps.json
+C:\Users\ERAY\Desktop\Proje\projectz\turnBasedGame\bin\Debug\net8.0\turnBasedGame.runtimeconfig.json
+C:\Users\ERAY\Desktop\Proje\projectz\turnBasedGame\bin\Debug\net8.0\turnBasedGame.dll
+C:\Users\ERAY\Desktop\Proje\projectz\turnBasedGame\bin\Debug\net8.0\turnBasedGame.pdb
+C:\Users\ERAY\Desktop\Proje\projectz\turnBasedGame\obj\Debug\net8.0\turnBasedGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERAY\Desktop\Proje\projectz\turnBasedGame\obj\Debug\net8.0\turnBasedGame.AssemblyInfoInputs.cache
+C:\Users\ERAY\Desktop\Proje\projectz\turnBasedGame\obj\Debug\net8.0\turnBasedGame.AssemblyInfo.cs
+C:\Users\ERAY\Desktop\Proje\projectz\turnBasedGame\obj\Debug\net8.0\turnBasedGame.csproj.CoreCompileInputs.cache
+C:\Users\ERAY\Desktop\Proje\projectz\turnBasedGame\obj\Debug\net8.0\turnBasedGame.dll
+C:\Users\ERAY\Desktop\Proje\projectz\turnBasedGame\obj\Debug\net8.0\refint\turnBasedGame.dll
+C:\Users\ERAY\Desktop\Proje\projectz\turnBasedGame\obj\Debug\net8.0\turnBasedGame.pdb
+C:\Users\ERAY\Desktop\Proje\projectz\turnBasedGame\obj\Debug\net8.0\turnBasedGame.genruntimeconfig.cache
+C:\Users\ERAY\Desktop\Proje\projectz\turnBasedGame\obj\Debug\net8.0\ref\turnBasedGame.dll

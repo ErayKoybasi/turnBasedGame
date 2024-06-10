@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "turnBasedGame/1.0.0": {
+        "runtime": {
+          "turnBasedGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "turnBasedGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
